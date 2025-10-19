@@ -98,9 +98,9 @@ Puedes acceder al panel de H2 desde:
 http://localhost:8080/h2-commerce
 ```
 
-Configuración típica:
+Configuración en el panel web:
 ```
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL: jdbc:h2:mem:commerce
 User: sa
 Password: (vacío)
 ```
@@ -234,24 +234,31 @@ public class PaymentHistory {
 
 ## ⚙️ Instrucciones de Instalación
 
+Para poder ejecutar el backend, es necesario tener instalado java 17. En cuanto a maven, no es necesario ya que el backend cuenta con su archivo `.jar` listo para ejecutarse.
+
 ### 🔧 Backend (Spring Boot)
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/mini-ecommerce.git
-cd mini-ecommerce/back
+git clone https://github.com/Alejandro-Ospina/mini-ecommerce.git
+cd mini-ecommerce/backend
+```
 
-# Compilar y ejecutar
-mvn spring-boot:run
+Dirigirse al directorio `target` dentro de `backend`, y allí abrir una terminal para ejecutar el siguiente comando:
+```bash
+java -jar mini-1.jar
 ```
 
 Servidor:  
 👉 `http://localhost:8080`
 
+Para acceder a la base de datos embebida:
+👉 `http://localhost:8080/h2-commerce`
+
 ---
 
 ### 💻 Frontend (React)
 ```bash
-cd ../front
+cd ../frontend
 npm install
 npm run dev
 ```
