@@ -251,6 +251,7 @@ java -jar mini-1.jar
 Servidor:  
 👉 `http://localhost:8080`
 
+
 Para acceder a la base de datos embebida:
 👉 `http://localhost:8080/h2-commerce`
 

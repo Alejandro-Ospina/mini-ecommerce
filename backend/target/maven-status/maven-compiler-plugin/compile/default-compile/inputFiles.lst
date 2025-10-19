@@ -1,0 +1,15 @@
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Controllers/PaymentHistoryController.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Controllers/ProductController.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/DTOs/AddProductDTO.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/DTOs/ResponseDto.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Entities/PaymentHistory.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Entities/Product.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Enums/Categories.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Exceptions/GeneralExceptionHandler.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Mappers/ProductMapper.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/MiniApplication.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Repositories/PaymentHistoryRepository.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Repositories/ProductRepository.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Seeder/DataLoader.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Services/PaymentService.java
+/home/alejo-ospina/Documentos/Documentos_Alejandro/prueba/mini-ecommerce/backend/src/main/java/com/e_commerce/mini/Services/ProductService.java
